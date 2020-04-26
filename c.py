@@ -1,6 +1,5 @@
 iiiiii
 yyyyyy
-<<<<<<< HEAD
 4
 5
 6
